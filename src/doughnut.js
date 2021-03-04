@@ -12,11 +12,11 @@ export default{
               borderWidth:0.5,
               borderColor:"#000"
             },
-           /* {
+           {
                 label: 'Sales2',
                 data: [40, 30,10,15],
                 backgroundColor:['blue','lightgreen','red','orange']
-              }*/
+            }
           ]
           
         },
